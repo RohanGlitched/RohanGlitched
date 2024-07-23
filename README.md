@@ -11,9 +11,8 @@ I'm a passionate software developer with experience in DevOps, Full Stack Develo
 - **Other Tools**: Git, GitHub, Linux
 
 ## Projects
-- **[Project 1: DevOps Pipeline](link)**: Designed and implemented a CI/CD pipeline using Jenkins and Docker, resulting in a 50% reduction in deployment times.
-- **[Project 2: Full Stack Application](link)**: Developed a web application using React and Node.js, featuring user authentication, data visualization, and real-time updates.
-- **[Project 3: Cloud Migration](link)**: Led the migration of on-premises applications to Azure, improving scalability and reducing costs.
+- **Project 1: DevOps Pipeline**: Designed and implemented a CI/CD pipeline using Jenkins and Docker, resulting in a 50% reduction in deployment times.
+- **Project 2: Full Stack Application: Developed a web application using React and Node.js, featuring user authentication, data visualization, and real-time updates.
 
 ## Achievements
 - Successfully cleared the HR interview for the Associate Systems Engineer (Early Career) position at SAS.
@@ -23,6 +22,6 @@ I'm a passionate software developer with experience in DevOps, Full Stack Develo
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/rohan-borade/)
 - [GitHub](https://github.com/RohanGlitched)
-- [Email](mailto:rohan.borade@example.com)
+- [Email](mailto:boraderohan11@gmail.com)
 
 Thanks for visiting my profile!
