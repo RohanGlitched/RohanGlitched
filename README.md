@@ -1,12 +1,28 @@
-## Hi there 👋
+# Hi, I'm Rohan Borade 👋
 
-I'm **Rohan Borade**, a passionate software developer with a focus on **DevOps, Full Stack Development**, and **Cloud Technologies**. I thrive on learning and collaborating on cutting-edge projects.
+## About Me
+I'm a passionate software developer with experience in DevOps, Full Stack Development, and Cloud Technologies. Currently, I'm applying for roles that challenge and enhance my skills in software engineering and development operations. I love contributing to open-source projects and collaborating on innovative solutions.
 
-- 🔭 **Currently Working On**: Enhancing CI/CD pipelines, developing full stack applications, and cloud migrations.
-- 🌱 **Currently Learning**: Advanced cloud technologies and DevOps practices.
-- 👯 **Looking to Collaborate On**: Open-source projects and innovative tech solutions.
-- 🤔 **Seeking Help With**: Advanced Kubernetes configurations.
-- 💬 **Ask Me About**: DevOps, Full Stack Development, cloud migrations.
-- 📫 **Reach Me At**: [LinkedIn](https://www.linkedin.com/in/rohan-borade/), [GitHub](https://github.com/RohanGlitched)
-- 😄 **Pronouns**: He/Him
-- ⚡ **Fun Fact**: I love solving coding challenges on HackerRank!
+## Skills
+- **Programming Languages**: Python, JavaScript, Java, C++
+- **Frameworks and Libraries**: React, Node.js, Express, Django
+- **DevOps Tools**: Docker, Kubernetes, Jenkins, Ansible
+- **Cloud Platforms**: Azure, AWS
+- **Other Tools**: Git, GitHub, Linux
+
+## Projects
+- **[Project 1: DevOps Pipeline](link)**: Designed and implemented a CI/CD pipeline using Jenkins and Docker, resulting in a 50% reduction in deployment times.
+- **[Project 2: Full Stack Application](link)**: Developed a web application using React and Node.js, featuring user authentication, data visualization, and real-time updates.
+- **[Project 3: Cloud Migration](link)**: Led the migration of on-premises applications to Azure, improving scalability and reducing costs.
+
+## Achievements
+- Successfully cleared the HR interview for the Associate Systems Engineer (Early Career) position at SAS.
+- Developed solutions for various coding challenges on HackerRank.
+- Gained experience in prompt engineering through an interview process at Lyzr AI.
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/rohan-borade/)
+- [GitHub](https://github.com/RohanGlitched)
+- [Email](mailto:rohan.borade@example.com)
+
+Thanks for visiting my profile!
