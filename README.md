@@ -1,24 +1,121 @@
-<h1 align="center">Hi 👋, I'm Rohan Borade</h1>
-<h3 align="center">I'm a passionate software developer with experience in DevOps, Full Stack Development, and Cloud Technologies. Currently, I'm applying for roles that challenge and enhance my skills in software engineering and development operations. I love contributing to open-source projects and collaborating on innovative solutions.</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" width="100%" alt="Rohan Borade, AI engineer, Mumbai. I break things. Then I build agents that don't. Break it, build it, prove it.">
+</picture>
 
-- 🔭 I’m currently working on **Enhancing CI/CD pipelines and cloud migrations**
+&nbsp;
 
-- 🌱 I’m currently learning **Advanced cloud technologies and DevOps practices.**
+I learn by breaking things. Hand me a stack I've never touched and a deadline, and I'll ship something real with it by the weekend. This October that meant **14 projects in 12 days**, from MCP servers to quantum error correction to zero-knowledge privacy. By day I build agents for real business systems, where the rule flips: nothing ships until it's measured.
 
-- 👯 I’m looking to collaborate on **Open-source projects and innovative tech solutions.**
+&nbsp;
 
-- 🤝 I’m looking for help with **Advanced Kubernetes configurations.**
+<table>
+<tr>
+<td width="33%" valign="top"><code>01</code> &nbsp;<b>Break it</b><br><sub>Take it apart until I know why it works. The docs are where I start, not where I stop.</sub></td>
+<td width="33%" valign="top"><code>02</code> &nbsp;<b>Build it</b><br><sub>Ship something real on a deadline. A weekend is enough to learn most stacks.</sub></td>
+<td width="33%" valign="top"><code>03</code> &nbsp;<b>Prove it</b><br><sub>Evals, baselines, receipts. If I can't measure it, it doesn't ship.</sub></td>
+</tr>
+</table>
 
-- 💬 Ask me about **DevOps, Full Stack Development, cloud migrations.**
+&nbsp;
 
-- 📫 How to reach me **boraderohan11@gmail.com**
+#### My learning curve, literally
 
-- ⚡ Fun fact **Sometimes I complete projects in a Day**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/curve-dark.svg">
+  <img src="assets/curve-light.svg" width="100%" alt="Learning curve: tools and techniques used for the first time in a public repo">
+</picture>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohan-borade-146520262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-borade-146520262" height="30" width="40" /></a>
-</p>
+<sub>Counted from the stack of every public repo I create, and redrawn every day by a GitHub Action. It only goes up if I keep learning.</sub>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+&nbsp;
+
+#### The last 30 days, as a git log
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/gitlog-dark.svg">
+  <img src="assets/gitlog-light.svg" width="100%" alt="The last 30 days as a git log, one commit per project shipped">
+</picture>
+
+<sub>`main` is the day job. Every branch is a night or a weekend.</sub>
+
+&nbsp;
+
+#### Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[countertop](https://github.com/RohanGlitched/countertop)** &nbsp;<sub>AGENTS · MCP</sub>
+
+Test any MCP server the way a smart display would: by voice, with its MCP App views on screen.
+
+<sub>`voice → Claude on Bedrock → MCP server → App view`</sub><br>
+<sub>[live ↗](https://countertop-mcp.vercel.app) &nbsp;·&nbsp; [code ↗](https://github.com/RohanGlitched/countertop)</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[exhibit](https://github.com/RohanGlitched/exhibit)** &nbsp;<sub>AGENTS · GROUNDING</sub>
+
+Dispute desk for PayPal sellers. Every sentence of the response is pinned to the record that proves it.
+
+<sub>`dispute → agent → PayPal records → cited reply`</sub><br>
+<sub>[live ↗](https://exhibit-desk.vercel.app) &nbsp;·&nbsp; [code ↗](https://github.com/RohanGlitched/exhibit)</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[routed](https://github.com/RohanGlitched/routed)** &nbsp;<sub>AGENTS · EVALS</sub>
+
+Routes indie tours to where fans over-index, then proves the lift against a no-tool baseline.
+
+<sub>`artist → agent → Qloo taste graph → route vs. baseline`</sub><br>
+<sub>[live ↗](https://routed-tours.vercel.app) &nbsp;·&nbsp; [code ↗](https://github.com/RohanGlitched/routed)</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[dialed](https://github.com/RohanGlitched/dialed)** &nbsp;<sub>AGENTS · VISION</sub>
+
+Reads analog gauges from a photo. The agent logs the reading, asks for a retake, or waits for a human.
+
+<sub>`photo → OpenCV 5 → agent → log / retake / hold`</sub><br>
+<sub>[live ↗](https://d3p9dcbwy0l1n8.cloudfront.net) &nbsp;·&nbsp; [code ↗](https://github.com/RohanGlitched/dialed)</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[below-threshold](https://github.com/RohanGlitched/below-threshold)** &nbsp;<sub>QUANTUM</sub>
+
+Reproduces the result behind Google's Willow chip, in the browser, on IonQ and IBM noise models.
+
+<sub>`repetition code → noise model → matching decoder → Λ`</sub><br>
+<sub>[live ↗](https://qollab.xyz/u/master/below-threshold) &nbsp;·&nbsp; [code ↗](https://github.com/RohanGlitched/below-threshold)</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[tell](https://github.com/RohanGlitched/tell)** &nbsp;<sub>ONCHAIN · PRIVACY</sub>
+
+Privacy-leak scanner for Midnight. Shows, in bits, what each zero-knowledge circuit gives away.
+
+<sub>`Compact circuit → static analysis → bits leaked → SARIF`</sub><br>
+<sub>[code ↗](https://github.com/RohanGlitched/tell)</sub>
+
+</td>
+</tr>
+</table>
+
+&nbsp;
+
+---
+
+<sub>**Stack** &nbsp; Python · TypeScript · MCP · LangGraph · AWS · Google Cloud &nbsp;&nbsp;&nbsp; **Certified** &nbsp; Google Associate Cloud Engineer · AWS Cloud Practitioner &nbsp;&nbsp;&nbsp; **Education** &nbsp; MCA, VIT</sub>
+
+**[boraderohan11@gmail.com](mailto:boraderohan11@gmail.com)** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/rohan-borade-146520262/)
